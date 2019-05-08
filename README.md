@@ -16,8 +16,7 @@ Add TP-Link Archer T2U nano USB WiFi
 Running: 10.13.6, 10.14.4
 
 - CPU: OK
-- Graphis: OK(HD5500 only)
-ç
+- Graphcis: OK(HD5500 only)
 - Ethernet: OK
 - WiFi: not working
 - Battery: not working(todo)
