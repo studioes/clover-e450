@@ -7,6 +7,7 @@ BIOS 1.35
 Core i7 5500U  
 12GB RAM(8GB+4GB)  
 HD5500 + Radeon R7 M260(not working)  
+IPS 1920x1080  
 8265 WiFi(not working)  
 US Keyboad  
 Samsung 840EVO 250GB SSD  
