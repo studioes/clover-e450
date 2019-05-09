@@ -19,22 +19,17 @@ Running: 10.13.6, 10.14.4
 - Graphics: OK(HD5500 only)
 - Ethernet: OK
 - WiFi: not working
-- Battery: not working(todo)
-- Backlight: not working(todo)
-- Keyboard: without Hotkey(todo)
+- Battery: OK
+- Backlight: OK(PWMMax low?)
+- Keyboard: OK(with hotkeys, Audio Mute, VolumeUp&Down, Backlight brightness Up&Down)
 - TrackPoint: OK(without scroll)
 - TrackPad: OK(multi touch not working)
-
-Todo:
-- Battery support
-  Charge status
-  Capacity
-- Backlight support
-  Brightness Up/Down
-- Keyboard
-  Hotkeys
   
 History
 - 0.1: HighSierra support
 - 0.2: Audio device support
 - 0.2.1: Mojave support
+- 0.3:
+  - Backlight control support.
+  - Battery status support.
+  - Hotkey support.
