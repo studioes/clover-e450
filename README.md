@@ -24,6 +24,10 @@ Running: 10.13.6, 10.14.4
 - Keyboard: OK(with hotkeys, Audio Mute, VolumeUp&Down, Backlight brightness Up&Down)
 - TrackPoint: OK(without scroll)
 - TrackPad: OK(multi touch not working)
+
+Require kexts(/L/E)
+- ACPIBatteryManager.kext
+- AppleBacklightFixup.kext
   
 History
 - 0.1: HighSierra support
