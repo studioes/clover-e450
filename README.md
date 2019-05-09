@@ -13,6 +13,9 @@ US Keyboard
 Samsung 840EVO 250GB SSD  
 Add TP-Link Archer T2U nano USB WiFi  
 
+**Important:**
+ If you set a charge threshold with ThinkVantage, that setting is valid in this environment and can only be changed with ThinkVantage. If you need change threshold, you must use Windows 10 and ThinkVantage.
+
 Running: 10.13.6, 10.14.4
 
 - CPU: OK
